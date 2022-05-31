@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#dev{
+  text-align: center;
+}
+
+#dev a{
+  color: black;
+  background-color: red;
+  padding: 0px 10px 0px 10px;
+}
+
+#featured-property img{
+     display: block;
+     margin: 20px;
+     margin: auto;
+  
+}
+#featured-property figcaption{
+  text-align: center;
+}
+
+#featured-property p{
+  text-align: center;
+}
+
+#details div{
+  float: left;
+  width: 25%;
+  background-color: red;
+}
+
+#details div .form{
+  margin-left: 10px;
+}
